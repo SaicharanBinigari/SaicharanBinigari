@@ -13,12 +13,15 @@ Summary:
 
 • Strong knowledge in Agile and Waterfall methodologies. 
 
-##Education Background##
+**Education Background**
 - I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence
   
 - 📫 How to reach me ...
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
 - Gmail : saicharanreddy.binigari@gmail.com
+
+**Novy Pro Link for Power BI and Tableau Projects**
+https://www.novypro.com/profile_projects/saicharanbinigari
 
 
 <!---
