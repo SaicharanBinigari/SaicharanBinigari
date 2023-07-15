@@ -13,7 +13,8 @@ Summary:
 
 • Strong knowledge in Agile and Waterfall methodologies. 
 
-- 
+- I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence
+  
 - 📫 How to reach me ...
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
 - Gmail : saicharanreddy.binigari@gmail.com
