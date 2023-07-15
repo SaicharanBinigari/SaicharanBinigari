@@ -13,6 +13,7 @@ Summary:
 
 • Strong knowledge in Agile and Waterfall methodologies. 
 
+##Education Background##
 - I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence
   
 - 📫 How to reach me ...
