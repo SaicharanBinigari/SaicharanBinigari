@@ -1,7 +1,7 @@
-- 👋 Hi, I’m SaicharanBinigari
+- 👋 Hi, I’m **SaicharanBinigari**
 - 👀 Solution-Oriented Senior Data Analyst with 6 years of professional work experience in Requirements gathering, Data analysis, Data modelling and Data visualization.
-- 
-   Self-motivated and effective team player combined with a flexible & detail-oriented attitude with the ability to interact effectively with people of diverse nationalities across the globe.
+ 
+-  Self-motivated and effective team player combined with a flexible & detail-oriented attitude with the ability to interact effectively with people of diverse nationalities across the globe.
   
 Summary:
 
