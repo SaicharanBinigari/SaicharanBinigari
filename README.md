@@ -5,16 +5,16 @@
   
 Summary:
 
-• Expertise in Data analysis, Data cleaning, Machine Learning, Data Modeling and Data visualization using SQL, Power BI, Tableau, Kibana, Python, Excel and AWS
+• Expertise in Data analysis, Data cleaning, Machine Learning, Data Modeling and Data visualization using SQL, Power BI, Tableau, Kibana, Python, Excel and AWS.
 
-• Expertise in working with Complex datasets, creating dashboards and reports, and presenting findings to stakeholders. 
+• Expertise in working with Complex datasets, creating dashboards, reports, and presenting findings to stakeholders. 
 
 • Detail-oriented individual with a strong work ethic and a passion for solving complex problems.
 
 • Strong knowledge in Agile and Waterfall methodologies. 
 
 **Education Background**
-- I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence
+- I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence.
   
 - 📫 How to reach me ...
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
