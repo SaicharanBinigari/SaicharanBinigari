@@ -19,7 +19,7 @@ Summary:
 - 📫 How to reach me ...
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
 - Gmail : saicharanreddy.binigari@gmail.com
-- Contact: **404 5780892**
+- Contact: **+1 404 5780892**
 
 I am happy to discuss on full time opportunities. So please free to reach out to me.
 
