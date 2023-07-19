@@ -5,7 +5,7 @@
   
 Summary:
 
-• Expertise in Data analysis, Data cleaning, Machine Learning, Data Modeling and Data visualization using SQL, Power BI, Tableau, Kibana, Python, Excel and AWS.
+• Expertise in Data analysis, Data cleaning, Machine Learning, Data Modeling and Data visualization using SQL, Power BI, Python, Excel, AWS, Tableau and Kibana.
 
 • Expertise in working with Complex datasets, creating dashboards, reports, and presenting findings to stakeholders. 
 
