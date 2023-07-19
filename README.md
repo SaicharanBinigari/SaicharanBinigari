@@ -20,6 +20,8 @@ Summary:
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
 - Gmail : saicharanreddy.binigari@gmail.com
 
+I am happy to discuss on full time opportunities. So please free to reach out to me.
+
 **Novy Pro Link for Power BI and Tableau Projects**
 https://www.novypro.com/profile_projects/saicharanbinigari
 
