@@ -15,6 +15,7 @@ Summary:
 
 **Education Background**
 - I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence.
+- GPA : 4.0
   
 - 📫 How to reach me ...
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
