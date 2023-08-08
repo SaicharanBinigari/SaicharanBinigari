@@ -1,9 +1,10 @@
+**Introduction**
 - 👋 Hi, I’m **SaicharanBinigari** and looking for full time opportunities as a Data Analyst, Business Intelligence Analyst, Data Reporting Analyst and Power BI Developer.
 - 👀 Solution-Oriented Senior Data Analyst with 6 years of professional work experience in Requirements gathering, Data analysis, Data modelling and Data visualization.
  
 -  Self-motivated and effective team player combined with a flexible & detail-oriented attitude with the ability to interact effectively with people of diverse nationalities across the globe.
   
-Summary:
+**Work Summary:**
 
 • Expertise in Data analysis, Data cleaning, Machine Learning, Data Modeling and Data visualization using SQL, Power BI, Python, Excel, AWS, Tableau and Kibana.
 
