@@ -17,7 +17,7 @@ Summary:
 - I hold Masters Degree in Information Technology with specialization in Data Analytics and Business Intelligence.
 - GPA : 4.0
   
-- 📫 How to reach me ...
+**- 📫 How to reach me ...**
 - LinkedIn :- https://www.linkedin.com/in/saicharan-binigari
 - Gmail : saicharanreddy.binigari@gmail.com
 - Contact: **+1 404 5780892**
